@@ -3,6 +3,8 @@ Machine Learning model for Bank Marketing Campaign.
 
 This project was created as a capstone project for Purwadhika Data Science Class Module 3.
 
+Presentation can be accessed via this [link](https://docs.google.com/presentation/d/1ZWSW1E6EeNqF0y-AfREMfQ7mS_W5FeviXirCkIXsx0M/edit?usp=sharing)
+
 ## Introduction
 Bank PWDK memiliki beberapa produk finansial, salah satunya adalah deposito. Dalam mengadakan campaign untuk menawarkan deposito sering kali Bank tidak mencapai target dan tidak tepat sasaran karena belum memanfaatkan profil nasabah. Oleh karena itu dibuatlah model machine learning untuk mengidentifikasi nasabah yang cenderung membuka deposito dengan harapan campaign berjalan secara efisien dan tepat sasaran sehingga bisa menghemat biaya, waktu dan sumber daya.
 
